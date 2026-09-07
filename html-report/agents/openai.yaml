@@ -1,0 +1,4 @@
+interface:
+  display_name: "HTML Report"
+  short_description: "Turn results into one polished HTML report"
+  default_prompt: "Use $html-report to present these results as one clear, single-file HTML report."
