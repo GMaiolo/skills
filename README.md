@@ -7,7 +7,7 @@ Reusable [Agent Skills](https://agentskills.io/) for coding agents, installable 
 | Skill | Purpose |
 | --- | --- |
 | [html-report](html-report/SKILL.md) | Present completed analyses, audits, comparisons, research, or test results as a single HTML report. |
-| [succinct](succinct/SKILL.md) | Keep code changes and responses clear, simple, and concise. |
+| [succinct](succinct/SKILL.md) | Keep writing, explanations, plans, and code clear, simple, and concise. |
 
 ## Installation
 
@@ -37,6 +37,8 @@ npx skills add gmaiolo/skills --list
 > Use $html-report to turn these audit findings into a single HTML report with a summary, supporting evidence, and limitations.
 
 **Succinct**
+
+> Use $succinct to tighten this proposal while preserving the key decisions and rationale.
 
 > Use $succinct to keep this code change simple and explain the result concisely.
 

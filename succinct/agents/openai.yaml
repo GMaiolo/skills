@@ -1,4 +1,4 @@
 interface:
   display_name: "Succinct"
-  short_description: "Keep code and responses clear and concise"
+  short_description: "Keep any work clear, simple, and concise"
   default_prompt: "Use $succinct to make this work as clear, simple, and concise as possible."

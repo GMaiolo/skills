@@ -1,12 +1,18 @@
 ---
 name: succinct
 license: MIT
-description: Keep code changes and responses clear, simple, and concise. Use when implementing, editing, reviewing, or explaining code.
+description: Keep writing, explanations, plans, and code clear, simple, and concise. Use when creating, editing, reviewing, or summarizing work where brevity matters, or when the user asks to keep something succinct.
 metadata:
   author: gmaiolo
-  version: "1.0.0"
+  version: "1.1.0"
 ---
 
 # Succinct
 
-Always prioritize clarity and simplicity. Less code means fewer bugs. Changes should be as concise and succinct as possible, and so should your response.
+Prioritize clarity and simplicity in both the work and your response. Use only the detail needed to fulfill the request while preserving meaning, accuracy, and necessary context. Respect the user's requested depth and format.
+
+Lead with the main point. Remove repetition, filler, and unnecessary structure. Prefer direct language over compressed wording that makes the reader work harder.
+
+## When code is involved
+
+When implementing, editing, reviewing, or explaining code, also keep code changes as small, clear, and simple as possible. Avoid unnecessary code and abstractions without sacrificing correctness or readability. Keep explanations of the changes concise.
