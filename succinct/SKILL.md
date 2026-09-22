@@ -15,8 +15,6 @@ Lead with the main point. Remove repetition, filler, and unnecessary structure. 
 
 ## When code is involved
 
-When implementing, editing, reviewing, or explaining code, also keep code changes as small, clear, and simple as possible. Avoid unnecessary code and abstractions without sacrificing correctness or readability. Keep explanations of the changes concise.
+When implementing, editing, reviewing, or explaining code, keep code changes as small, clear, and simple as possible. Avoid unnecessary code and abstractions without sacrificing correctness or readability. Keep explanations of the changes concise.
 
-Less code is better. Less code is less bugs. Less code is less to maintain. Prioritize simplicity and less code.
-
-Less code also means less complexity. Don't cram logic into hacky one-liners or convoluted expressions just to save lines. Use more lines when they make the code simpler and clearer.
+Prioritize readable simplicity. Less code is better. Less code is less bugs. Less code is less to maintain. Less code also means less complexity. Don't cram logic into hacky one-liners or convoluted expressions just to save lines. Use more lines when they make the code simpler and clearer.
