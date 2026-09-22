@@ -19,3 +19,4 @@ When implementing, editing, reviewing, or explaining code, also keep code change
 
 Less code is better. Less code is less bugs. Less code is less to maintain. Prioritize simplicity and less code.
 
+Less code also means less complexity. Don't cram logic into hacky one-liners or convoluted expressions just to save lines. Use more lines when they make the code simpler and clearer.
